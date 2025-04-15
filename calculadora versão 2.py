@@ -2,7 +2,7 @@ while True:  # Loop para reiniciar o programa
     soma = 0
     nota = 1
     quantidade = 0
-
+	#o pai vai fazer um comentário
     total_notas = int(input("\n\033[039mDigite o total de avaliações/notas: \033[36m"))
     if total_notas > 0:
         mda = float(input("\033[039mDigite qual é a média mínima da sua instituição: \033[36m"))
